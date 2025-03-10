@@ -1,0 +1,16 @@
+{
+    "name": "JD.Colors",
+    "rootNamespace": "JD.Colors",
+    "references": [
+        "GUID:dc0a4fd05c166134fb1fea70443c5fd6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

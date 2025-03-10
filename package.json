@@ -1,0 +1,18 @@
+{
+  "name": "jd.boiv.in.colors",
+  "version": "1.0.0",
+  "displayName": "Colors",
+  "description": "Utility for colors in Unity",
+  "dependencies": {
+    "jd.boiv.in.extensions": "1.0.0"
+  },
+  "keywords": [
+    "colors",
+    "utility"
+  ],
+  "author": {
+    "name": "Jean-Denis Boivin",
+    "email": "jd@boiv.in",
+    "url": "https://jd.boiv.in"
+  }
+}
